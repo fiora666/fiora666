@@ -9,7 +9,7 @@
 ### 2.1  R file chunks
 
 <br>There is a example picture for the R file, you can click this little picture to see. <br>
-<br>![🏞R file](https://media.geeksforgeeks.org/wp-content/uploads/20200402194747/fig-4.jpg)<br>
+<br>![R file](https://media.geeksforgeeks.org/wp-content/uploads/20200402194747/fig-4.jpg)<br>
 
 ### 2.2  Run R file 
 <br>First step you have to save this R file on your own labtop.<br>
@@ -18,7 +18,7 @@
 ## 3. Plots
 <br>After you run the codes, there will be some plots show out on the right bottom corner(may be on the left bottom corner on your laptop).<br>
 <br>There is a example below.<br>
-<br>![🏞 example here](https://clasticdetritus.files.wordpress.com/2013/01/rstudio-example.jpg)<br>
+<br>![example here](https://clasticdetritus.files.wordpress.com/2013/01/rstudio-example.jpg)<br>
 
 
 ## 4. About our group
@@ -26,9 +26,14 @@
 ### 4.1 Our member
 <br>There are five members in our group: ``Chaoqun Jia, Luoheng Liao, Zhongyan Wu, Yuwei Zhang and Yuhan Hou``.<br>
 
-### 4.1 Our plots
+### 4.2 Our plots
 <br>We have two different plots.<br>
+<br>**Plot 1 is how students think the majority of thier classmates are feeling.**<br>
+<br>![plot 1](https://github.com/fiora666/fiora666/blob/main/%E6%88%AA%E5%B1%8F2022-07-23%20%E4%B8%8A%E5%8D%8811.44.45.png)<br>
+<br>This is a pie chart plot. It shows the percentage of each keyword of students think the majority of thier classmates are feeling.<br>
 
-
+<br>**Plot 2 is a worldcloud.**<br>
+<br>![plot 2](https://github.com/fiora666/fiora666/blob/main/%E6%88%AA%E5%B1%8F2022-07-24%20%E4%B8%8A%E5%8D%8810.33.38.png)<br>
+<br>This plot is a wordcloud. It shows us different positive and negative keywords in the data set.<br>
 
 
